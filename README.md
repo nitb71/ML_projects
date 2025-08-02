@@ -1,1 +1,1 @@
-Using Linear Regression to predict housing price based on features like location,size and amenities.
+OVERVIEW:- This projects aims to predict the house prices using machine learning algorithms and techniques.The goal is to devlop a model that can accurately forecast house prtices based on various features such as location,size, number od bedromms and more.
